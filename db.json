@@ -1,7 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "homeScreen": [
+    { "id": 1, "title": "Recommeded Movies" , "source":"MOVIES" },
+    { "id": 2, "title": "Popular Actors" , "source":"ACTORS" }
   ]
 }
